@@ -40,3 +40,7 @@ The regression output demonstrates how to successfully translate abstract econom
 * **Advanced Excel:** Data Analysis Toolpak, `LINEST` matrix functions, Variance Calculation, and Statistical Modeling.
 * **Supply Chain & S&OP:** B2B Demand Planning, Macroeconomic Forecasting, and Objective Consensus Building.
 * **Data Analytics:** Multiple Linear Regression (MLR), R-Squared interpretation, coefficient mapping, and predictive financial modeling.
+
+### Summary Output Results
+![Summary Output](Summary%20Output.png)
+
